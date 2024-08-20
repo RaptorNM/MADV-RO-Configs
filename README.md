@@ -6,7 +6,7 @@ Link to orignal modd: https://forum.kerbalspaceprogram.com/topic/209690-112x-aer
 Entry, flip and landing demo: https://youtu.be/2jmypB5y3oY?si=SMLtWPgu5HtlCxyD
 
 How to:
-Step 1: drop folddert "RO Astro MADV" anywhere into gamedata
+Step 1: drop folder "RO Astro MADV" anywhere into gamedata
 
 Step 2: profit
 
