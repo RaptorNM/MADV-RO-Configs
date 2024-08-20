@@ -15,4 +15,4 @@ Screenshots:
 
 ![screenshot20](https://github.com/user-attachments/assets/66c6fe8b-2310-4eb4-9fbf-6fcf9d44e483)
 
-![screenshot20](https://github.com/user-attachments/assets/03333579-77b3-4edb-8f0d-45151d1b4698)
+![screenshot26](https://github.com/user-attachments/assets/7ce13fca-dc75-4c69-9f91-b94cec7c586b)
